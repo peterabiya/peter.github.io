@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal cybersecurity portfolio website.
 
-**Live website:** https://peter.github.io/
+**Live website:** https://peterabiya.github.io/peter.github.io/
 
 ## Profile focus
 
