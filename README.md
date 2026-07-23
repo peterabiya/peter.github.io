@@ -25,12 +25,19 @@ Areas of interest include:
 ## Repository Structure
 
 ├── index.html
+
 ├── css/
+
 │   └── style.css
+
 ├── js/
-│   └── main.js
+
+│   └── script.js
+
 ├── images/
+
 ├── files/
+
 └── README.md
 
 ---
